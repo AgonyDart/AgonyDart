@@ -1,4 +1,6 @@
 ### Hi there 👋
+🔭 I’m currently learning WebDev and Python.
+💬 I like art and sports besides coding.
 
 <!--
 **AgonyDart/AgonyDart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
