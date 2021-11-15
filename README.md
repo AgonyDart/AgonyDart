@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently learning WebDev and Python.
+🔭 I’m currently learning WebDev and IoT.
 💬 I like art and sports besides coding.
 
 <!--
