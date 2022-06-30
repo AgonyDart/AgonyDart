@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Angel Duarte</h1>
-![banner](https://i.imgur.com/Xbh7pvY.jpg)
+<img align="center" src="https://i.imgur.com/Xbh7pvY.jpg" alt="banner">
 <h3 align="center">A passionate student from Mexico</h3>
 
 - 🔭 I’m currently working on **My Portfolio**
