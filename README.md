@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Angel Duarte</h1>
+<h1 align="center">Hi 👋, I'm</h1>
 <img align="center" src="https://i.imgur.com/Xbh7pvY.jpg" alt="banner">
 <h3 align="center">A passionate student from Mexico</h3>
 
