@@ -1,5 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Angel Duarte</h1>
-[![a](https://i.imgur.com/Xbh7pvY.jpg)](https://i.imgur.com/Xbh7pvY.jpg)
+![banner](https://i.imgur.com/Xbh7pvY.jpg)
 <h3 align="center">A passionate student from Mexico</h3>
 
 - 🔭 I’m currently working on **My Portfolio**
