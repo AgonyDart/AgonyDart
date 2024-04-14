@@ -4,7 +4,6 @@
 [![](https://visitcount.itsvg.in/api?id=AgonyDart&icon=2&color=3)](https://visitcount.itsvg.in)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelostd) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AgonyDart)
 
 # 💻 Tech Stack:
 ## Languages:
